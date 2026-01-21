@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# macOS
+.DS_Store
+
+# Don't commit take-home datasets unless explicitly allowed
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Generated outputs
+outputs/
