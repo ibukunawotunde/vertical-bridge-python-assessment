@@ -1,4 +1,4 @@
-# Vertical Bridge — Python Assessment (Pandas + Plotly)
+# Vertical Bridge — Python Assessment
 
 ## What this does
 1. Loads the site list into a DataFrame named `vertical_bridge`
